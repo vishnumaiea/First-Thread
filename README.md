@@ -6,6 +6,8 @@ My first multi-threading experiment using Pthreads.
 	
 	Copyright (c) 2013 Vishnu M Aiea
 	
+	License : GNU GPL v3
+	
 	E-mail : vishnumaiea@gmail.com
 	
 	Web : www.vishnumaiea.in
